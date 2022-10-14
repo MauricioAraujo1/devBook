@@ -29,3 +29,12 @@
 - React;
 - Tailwind;
 - Vite;
+
+# 🤝 Suporte 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/devBook/issues).
+
+# 👤 Autor
+**🕵 Maurício Araújo**
+
+* Github: [MauricioAraujo1](https://github.com/MauricioAraujo1)
+* LinkedIn: [@mauricioarj1](https://linkedin.com/in/mauricioarj1)
